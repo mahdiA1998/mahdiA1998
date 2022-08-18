@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mahdiA1998
-- 👀 I’m interested in Al and Machine Learning applications.
+- 👋 Hi, I’m Mahdi Abbasi.
+- 👀 I’m interested in Al and Machine Learning applications as well as Neural Engineering.
 - 🌱 I’m currently learning Machine Learning and Deep Neural Networks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/mahdi-abbasi-170113199/   or   aabbasimahdi@gmail.com
